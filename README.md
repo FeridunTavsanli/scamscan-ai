@@ -4,6 +4,10 @@
 
 > 🚧 **Development Status:** This project is currently under active development.
 
+## 🌐 Live Demo
+
+👉 **[Try ScamScan AI](https://scamscan-ai.lovable.app/)**
+
 ## ✨ Features
 
 - 🔍 **AI-Powered Scam Analysis** — Analyze suspicious messages and content.
